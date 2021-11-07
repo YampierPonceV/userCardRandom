@@ -26,10 +26,10 @@ const Template = async () => {
           </ul>
         </div>
         <div class="card_social">
-          <a href="https://twitter.com/YampierPonceV">
-            <img src="${github}" />
-          </a>
-          <a href="https://github.com/YampierPonceV">
+        <a href="https://github.com/YampierPonceV">
+        <img src="${github}" />
+        </a>
+        <a href="https://twitter.com/YampierPonceV">
             <img src="${twitter}" />
           </a>
           <a href="https://instagram.com/YampierPonceV">
